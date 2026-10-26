@@ -2,6 +2,8 @@
 
 ![Project Report Builder cover](assets/cover.png)
 
+*[This project is a proof of concept built in five days as the take-home assessment for an Apple IS&T interview, with access for an approved test account.]*
+
 Create clear, shareable project reports in a native macOS app.
 Bring project updates, milestones, metrics and images together, save them to the
 cloud, and export your report as PNG or HTML.
@@ -12,9 +14,6 @@ Watch the [happy path demo](assets/happy-path-demo.mp4) (2 min).
 
 AI-assisted drafting is available as a development preview: turn notes into
 suggested changes, review them, then apply what you want to keep.
-
-This project is a proof of concept built in five days as the take-home
-assessment for an Apple IS&T interview, with access for an approved test account.
 
 ## What it covers
 
